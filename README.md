@@ -7,4 +7,4 @@ First run Install.vbs from Admin CMD
 
 Done!
 
-Open SettingsApp.exe and pick whatever theme you like or uninstall it.
+Open SettingsApp.exe and pick whatever theme you like or uninstall the program.
