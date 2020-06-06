@@ -1,0 +1,12 @@
+C:\Users\Trash\source\repos\SettingsApp\bin\Debug\SettingsApp.exe.config
+C:\Users\Trash\source\repos\SettingsApp\bin\Debug\SettingsApp.exe
+C:\Users\Trash\source\repos\SettingsApp\bin\Debug\SettingsApp.pdb
+C:\Users\Trash\source\repos\SettingsApp\bin\Debug\SettingsApp.xml
+C:\Users\Trash\source\repos\SettingsApp\obj\Debug\SettingsApp.vbprojAssemblyReference.cache
+C:\Users\Trash\source\repos\SettingsApp\obj\Debug\SettingsApp.Form1.resources
+C:\Users\Trash\source\repos\SettingsApp\obj\Debug\SettingsApp.Resources.resources
+C:\Users\Trash\source\repos\SettingsApp\obj\Debug\SettingsApp.vbproj.GenerateResource.cache
+C:\Users\Trash\source\repos\SettingsApp\obj\Debug\SettingsApp.vbproj.CoreCompileInputs.cache
+C:\Users\Trash\source\repos\SettingsApp\obj\Debug\SettingsApp.exe
+C:\Users\Trash\source\repos\SettingsApp\obj\Debug\SettingsApp.xml
+C:\Users\Trash\source\repos\SettingsApp\obj\Debug\SettingsApp.pdb
