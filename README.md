@@ -1,6 +1,6 @@
 # Windows-10-Theme-Changer
 
-#Install
+# Install
 You only need 2 files: Install.vbs and SettingsApp.exe
 
 First run Install.vbs from Admin CMD
